@@ -83,3 +83,4 @@ function f(n){
         resolve(n * (n +1))/2
     })
 }
+
